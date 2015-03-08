@@ -64,20 +64,20 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		C175FD2D193CE32B00CE7C66 /* UTARadioIphone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UTARadioIphone.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C175FD2D193CE32B00CE7C66 /* RadioUTA.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RadioUTA.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C175FD30193CE32B00CE7C66 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		C175FD32193CE32B00CE7C66 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		C175FD34193CE32B00CE7C66 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		C175FD38193CE32B00CE7C66 /* UTARadioIphone-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "UTARadioIphone-Info.plist"; sourceTree = "<group>"; };
+		C175FD38193CE32B00CE7C66 /* RadioUTA-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "RadioUTA-Info.plist"; sourceTree = "<group>"; };
 		C175FD3A193CE32B00CE7C66 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		C175FD3C193CE32B00CE7C66 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		C175FD3E193CE32B00CE7C66 /* UTARadioIphone-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UTARadioIphone-Prefix.pch"; sourceTree = "<group>"; };
+		C175FD3E193CE32B00CE7C66 /* RadioUTA-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "RadioUTA-Prefix.pch"; sourceTree = "<group>"; };
 		C175FD3F193CE32B00CE7C66 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		C175FD40193CE32B00CE7C66 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		C175FD42193CE32B00CE7C66 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		C175FD48193CE32B00CE7C66 /* UTARadioIphoneTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UTARadioIphoneTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		C175FD48193CE32B00CE7C66 /* RadioUTATests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RadioUTATests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C175FD49193CE32B00CE7C66 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
-		C175FD51193CE32B00CE7C66 /* UTARadioIphoneTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "UTARadioIphoneTests-Info.plist"; sourceTree = "<group>"; };
+		C175FD51193CE32B00CE7C66 /* RadioUTATests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "RadioUTATests-Info.plist"; sourceTree = "<group>"; };
 		C175FD53193CE32B00CE7C66 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		C175FD55193CE32B00CE7C66 /* UTARadioIphoneTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UTARadioIphoneTests.m; sourceTree = "<group>"; };
 		C175FD5F193CF09000CE7C66 /* SwipeTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SwipeTableViewController.h; sourceTree = "<group>"; };
@@ -164,7 +164,7 @@
 		C175FD24193CE32A00CE7C66 = {
 			isa = PBXGroup;
 			children = (
-				C175FD36193CE32B00CE7C66 /* UTARadioIphone */,
+				C175FD36193CE32B00CE7C66 /* RadioUTA */,
 				C175FD4F193CE32B00CE7C66 /* UTARadioIphoneTests */,
 				C175FD2F193CE32B00CE7C66 /* Frameworks */,
 				C175FD2E193CE32B00CE7C66 /* Products */,
@@ -174,8 +174,8 @@
 		C175FD2E193CE32B00CE7C66 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C175FD2D193CE32B00CE7C66 /* UTARadioIphone.app */,
-				C175FD48193CE32B00CE7C66 /* UTARadioIphoneTests.xctest */,
+				C175FD2D193CE32B00CE7C66 /* RadioUTA.app */,
+				C175FD48193CE32B00CE7C66 /* RadioUTATests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -204,7 +204,7 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		C175FD36193CE32B00CE7C66 /* UTARadioIphone */ = {
+		C175FD36193CE32B00CE7C66 /* RadioUTA */ = {
 			isa = PBXGroup;
 			children = (
 				C1AB84EA1940F75B00F2FEAD /* marqueelib */,
@@ -224,16 +224,17 @@
 				C175FD42193CE32B00CE7C66 /* Images.xcassets */,
 				C175FD37193CE32B00CE7C66 /* Supporting Files */,
 			);
+			name = RadioUTA;
 			path = UTARadioIphone;
 			sourceTree = "<group>";
 		};
 		C175FD37193CE32B00CE7C66 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				C175FD38193CE32B00CE7C66 /* UTARadioIphone-Info.plist */,
+				C175FD38193CE32B00CE7C66 /* RadioUTA-Info.plist */,
 				C175FD39193CE32B00CE7C66 /* InfoPlist.strings */,
 				C175FD3C193CE32B00CE7C66 /* main.m */,
-				C175FD3E193CE32B00CE7C66 /* UTARadioIphone-Prefix.pch */,
+				C175FD3E193CE32B00CE7C66 /* RadioUTA-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -250,7 +251,7 @@
 		C175FD50193CE32B00CE7C66 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				C175FD51193CE32B00CE7C66 /* UTARadioIphoneTests-Info.plist */,
+				C175FD51193CE32B00CE7C66 /* RadioUTATests-Info.plist */,
 				C175FD52193CE32B00CE7C66 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
@@ -356,9 +357,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		C175FD2C193CE32B00CE7C66 /* UTARadioIphone */ = {
+		C175FD2C193CE32B00CE7C66 /* RadioUTA */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C175FD59193CE32B00CE7C66 /* Build configuration list for PBXNativeTarget "UTARadioIphone" */;
+			buildConfigurationList = C175FD59193CE32B00CE7C66 /* Build configuration list for PBXNativeTarget "RadioUTA" */;
 			buildPhases = (
 				C175FD29193CE32B00CE7C66 /* Sources */,
 				C175FD2A193CE32B00CE7C66 /* Frameworks */,
@@ -368,14 +369,14 @@
 			);
 			dependencies = (
 			);
-			name = UTARadioIphone;
+			name = RadioUTA;
 			productName = UTARadioIphone;
-			productReference = C175FD2D193CE32B00CE7C66 /* UTARadioIphone.app */;
+			productReference = C175FD2D193CE32B00CE7C66 /* RadioUTA.app */;
 			productType = "com.apple.product-type.application";
 		};
-		C175FD47193CE32B00CE7C66 /* UTARadioIphoneTests */ = {
+		C175FD47193CE32B00CE7C66 /* RadioUTATests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C175FD5C193CE32B00CE7C66 /* Build configuration list for PBXNativeTarget "UTARadioIphoneTests" */;
+			buildConfigurationList = C175FD5C193CE32B00CE7C66 /* Build configuration list for PBXNativeTarget "RadioUTATests" */;
 			buildPhases = (
 				C175FD44193CE32B00CE7C66 /* Sources */,
 				C175FD45193CE32B00CE7C66 /* Frameworks */,
@@ -386,9 +387,9 @@
 			dependencies = (
 				C175FD4E193CE32B00CE7C66 /* PBXTargetDependency */,
 			);
-			name = UTARadioIphoneTests;
+			name = RadioUTATests;
 			productName = UTARadioIphoneTests;
-			productReference = C175FD48193CE32B00CE7C66 /* UTARadioIphoneTests.xctest */;
+			productReference = C175FD48193CE32B00CE7C66 /* RadioUTATests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -413,7 +414,7 @@
 					};
 				};
 			};
-			buildConfigurationList = C175FD28193CE32A00CE7C66 /* Build configuration list for PBXProject "UTARadioIphone" */;
+			buildConfigurationList = C175FD28193CE32A00CE7C66 /* Build configuration list for PBXProject "RadioUTA" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -425,8 +426,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				C175FD2C193CE32B00CE7C66 /* UTARadioIphone */,
-				C175FD47193CE32B00CE7C66 /* UTARadioIphoneTests */,
+				C175FD2C193CE32B00CE7C66 /* RadioUTA */,
+				C175FD47193CE32B00CE7C66 /* RadioUTATests */,
 			);
 		};
 /* End PBXProject section */
@@ -493,7 +494,7 @@
 /* Begin PBXTargetDependency section */
 		C175FD4E193CE32B00CE7C66 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = C175FD2C193CE32B00CE7C66 /* UTARadioIphone */;
+			target = C175FD2C193CE32B00CE7C66 /* RadioUTA */;
 			targetProxy = C175FD4D193CE32B00CE7C66 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -597,16 +598,18 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "UTARadioIphone/UTARadioIphone-Prefix.pch";
-				INFOPLIST_FILE = "UTARadioIphone/UTARadioIphone-Info.plist";
+				GCC_PREFIX_HEADER = "UTARadioIphone/RadioUTA-Prefix.pch";
+				INFOPLIST_FILE = "UTARadioIphone/RadioUTA-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = RadioUTA;
+				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
 			};
@@ -617,16 +620,18 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "UTARadioIphone/UTARadioIphone-Prefix.pch";
-				INFOPLIST_FILE = "UTARadioIphone/UTARadioIphone-Info.plist";
+				GCC_PREFIX_HEADER = "UTARadioIphone/RadioUTA-Prefix.pch";
+				INFOPLIST_FILE = "UTARadioIphone/RadioUTA-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = RadioUTA;
+				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
 			};
@@ -647,8 +652,8 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "UTARadioIphoneTests/UTARadioIphoneTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "UTARadioIphoneTests/RadioUTATests-Info.plist";
+				PRODUCT_NAME = RadioUTATests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -665,8 +670,8 @@
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "UTARadioIphone/UTARadioIphone-Prefix.pch";
-				INFOPLIST_FILE = "UTARadioIphoneTests/UTARadioIphoneTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "UTARadioIphoneTests/RadioUTATests-Info.plist";
+				PRODUCT_NAME = RadioUTATests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -675,7 +680,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		C175FD28193CE32A00CE7C66 /* Build configuration list for PBXProject "UTARadioIphone" */ = {
+		C175FD28193CE32A00CE7C66 /* Build configuration list for PBXProject "RadioUTA" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C175FD57193CE32B00CE7C66 /* Debug */,
@@ -684,7 +689,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C175FD59193CE32B00CE7C66 /* Build configuration list for PBXNativeTarget "UTARadioIphone" */ = {
+		C175FD59193CE32B00CE7C66 /* Build configuration list for PBXNativeTarget "RadioUTA" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C175FD5A193CE32B00CE7C66 /* Debug */,
@@ -693,7 +698,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C175FD5C193CE32B00CE7C66 /* Build configuration list for PBXNativeTarget "UTARadioIphoneTests" */ = {
+		C175FD5C193CE32B00CE7C66 /* Build configuration list for PBXNativeTarget "RadioUTATests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C175FD5D193CE32B00CE7C66 /* Debug */,

@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "C175FD2C193CE32B00CE7C66"
-               BuildableName = "UTARadioIphone.app"
-               BlueprintName = "UTARadioIphone"
-               ReferencedContainer = "container:UTARadioIphone.xcodeproj">
+               BuildableName = "RadioUTA.app"
+               BlueprintName = "RadioUTA"
+               ReferencedContainer = "container:RadioUTA.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "C175FD47193CE32B00CE7C66"
-               BuildableName = "UTARadioIphoneTests.xctest"
-               BlueprintName = "UTARadioIphoneTests"
-               ReferencedContainer = "container:UTARadioIphone.xcodeproj">
+               BuildableName = "RadioUTATests.xctest"
+               BlueprintName = "RadioUTATests"
+               ReferencedContainer = "container:RadioUTA.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -43,9 +43,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C175FD2C193CE32B00CE7C66"
-            BuildableName = "UTARadioIphone.app"
-            BlueprintName = "UTARadioIphone"
-            ReferencedContainer = "container:UTARadioIphone.xcodeproj">
+            BuildableName = "RadioUTA.app"
+            BlueprintName = "RadioUTA"
+            ReferencedContainer = "container:RadioUTA.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C175FD2C193CE32B00CE7C66"
-            BuildableName = "UTARadioIphone.app"
-            BlueprintName = "UTARadioIphone"
-            ReferencedContainer = "container:UTARadioIphone.xcodeproj">
+            BuildableName = "RadioUTA.app"
+            BlueprintName = "RadioUTA"
+            ReferencedContainer = "container:RadioUTA.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -80,9 +80,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C175FD2C193CE32B00CE7C66"
-            BuildableName = "UTARadioIphone.app"
-            BlueprintName = "UTARadioIphone"
-            ReferencedContainer = "container:UTARadioIphone.xcodeproj">
+            BuildableName = "RadioUTA.app"
+            BlueprintName = "RadioUTA"
+            ReferencedContainer = "container:RadioUTA.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

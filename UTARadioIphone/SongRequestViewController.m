@@ -134,7 +134,6 @@
     self.submitBtn.enabled = NO;
 }
 
-
 - (void) enableFieldsAndBtn{
     self.artistTextField.enabled = YES;
     self.songnameTextField.enabled = YES;
